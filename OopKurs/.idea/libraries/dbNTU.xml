@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dbNTU">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../dbNTU.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
